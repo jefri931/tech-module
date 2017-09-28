@@ -1,0 +1,5 @@
+/Users/danielstoynev/Documents/TechModuleNew/TechModuleNew/bin/Debug/TechModuleNew.exe
+/Users/danielstoynev/Documents/TechModuleNew/TechModuleNew/bin/Debug/TechModuleNew.pdb
+/Users/danielstoynev/Documents/TechModuleNew/TechModuleNew/obj/x86/Debug/TechModuleNew.csproj.CoreCompileInputs.cache
+/Users/danielstoynev/Documents/TechModuleNew/TechModuleNew/obj/x86/Debug/TechModuleNew.exe
+/Users/danielstoynev/Documents/TechModuleNew/TechModuleNew/obj/x86/Debug/TechModuleNew.pdb
