@@ -6,7 +6,12 @@ namespace TechModuleNew
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! hhhh");
+            Console.WriteLine("What is your name?");
+            string words = Console.ReadLine();
+            string first = words[0].ToString().ToUpper();
+            first =first + words.Substring(1,words.Length-1);
+            Console.WriteLine("Hello " + first+", nice to meet you.");
+
         }
     }
 }
