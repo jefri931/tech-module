@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 namespace TechModuleNew
 {
@@ -11,7 +11,6 @@ namespace TechModuleNew
             string first = words[0].ToString().ToUpper();
             first =first + words.Substring(1,words.Length-1);
             Console.WriteLine("Hello " + first+", nice to meet you.");
-<<<<<<< HEAD
             Console.WriteLine("Say something back");
             words = Console.ReadLine().ToLower();
             if(words.Contains("nice to")){
@@ -23,10 +22,7 @@ namespace TechModuleNew
             }else if(words.Contains("you")){
                 Console.WriteLine("Splendid");
             }
-
-=======
             string nnnn = "hh";
->>>>>>> 4620a35a228226c9666f9b7e4cf5fe4d06bffb5e
         }
     }
 }
