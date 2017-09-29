@@ -11,7 +11,7 @@ namespace TechModuleNew
             string first = words[0].ToString().ToUpper();
             first =first + words.Substring(1,words.Length-1);
             Console.WriteLine("Hello " + first+", nice to meet you.");
-
+            string nnnn = "hh";
         }
     }
 }
