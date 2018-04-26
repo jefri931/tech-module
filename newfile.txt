@@ -1,2 +1,7 @@
 change1
+<<<<<<< HEAD
 rniuwnfw
+=======
+change2 
+change 3
+>>>>>>> master
